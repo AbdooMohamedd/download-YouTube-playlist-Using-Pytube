@@ -34,7 +34,7 @@ YouTube Playlist Downloader is a Python script that allows you to download video
 1. Run the script:
 
     ```bash
-    python download-YouTube-playlist-Using-Pytube.py
+    python Download youtube playlist .py
     ```
 
 2. Enter the YouTube playlist URL when prompted:
@@ -60,7 +60,7 @@ YouTube Playlist Downloader is a Python script that allows you to download video
 ## Example
 
 ```bash
-$ python download-YouTube-playlist-Using-Pytube.py
+$ python Download youtube playlist .py
 Enter the YouTube playlist URL: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
 Enter your download path: /path/to/download
 Choose resolution (high/low/audio): high
