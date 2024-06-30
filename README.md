@@ -78,10 +78,3 @@ Choose resolution (high/low/audio): high
 
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library for downloading YouTube videos.
 ```
-
-To use this README:
-
-1. Save the content to a file named `README.md` in the root directory of your project.
-2. Adjust any paths or instructions as needed to fit your project's specifics.
-
-Feel free to ask if you need any more customization or additional information!
